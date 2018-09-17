@@ -1,0 +1,32 @@
+_repo: Lukemisia-lapsille-7_52508
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Sakarias
+    - Topelius, Zachris
+    - Topelius, Zakris
+    - Topelius, Zakarias
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Zacharias_Topelius
+    - http://en.wikipedia.org/wiki/Zachris_Topelius
+description: ''
+gutenberg_issued: '2016-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52508'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- GITenberg
+title: Lukemisia lapsille 7
+url: http://www.gutenberg.org/ebooks/52508
